@@ -38,56 +38,69 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ### 🛠️ Tech Stack
 
-#### **Languages** 
-<span style="background:#E8F0FF;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">Python</span>
-<span style="background:#EFE7FF;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">R</span>
-<span style="background:#F3F7FF;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">SQL</span>
-<span style="background:#E6F7F2;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">C</span>
-<span style="background:#FFE8E3;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">HTML</span>
-<span style="background:#E3ECFF;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">CSS</span>
+<!-- Pill style for all skills -->
+<!-- Feel free to adjust colors later if you want a different aesthetic -->
+<style>
+.skill-pill {
+  background: #EFEFF5;
+  border-radius: 12px;
+  padding: 6px 12px;
+  margin: 4px;
+  display: inline-block;
+  font-size: 14px;
+}
+</style>
 
-#### **Backend & Frameworks**
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-%2331A8FF.svg?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20APIs-%23007396.svg?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-%23002E3B.svg?style=for-the-badge)
+#### Languages  
+<span class="skill-pill">Python</span>
+<span class="skill-pill">R</span>
+<span class="skill-pill">SQL</span>
+<span class="skill-pill">C</span>
+<span class="skill-pill">HTML</span>
+<span class="skill-pill">CSS</span>
 
-#### **AI, ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23004E89.svg?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-%23008080.svg?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23004E89.svg?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-%233B2A98.svg?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-%23231F20.svg?style=for-the-badge)
+#### Backend & Frameworks  
+<span class="skill-pill">Flask</span>
+<span class="skill-pill">FastAPI</span>
+<span class="skill-pill">Frappe</span>
+<span class="skill-pill">REST APIs</span>
+<span class="skill-pill">Microservices</span>
 
-#### **Data Engineering & Big Data**
-![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+#### AI, ML & Data Science  
+<span class="skill-pill">TensorFlow</span>
+<span class="skill-pill">PyTorch</span>
+<span class="skill-pill">LangChain</span>
+<span class="skill-pill">OpenAI API</span>
+<span class="skill-pill">Transformers</span>
+<span class="skill-pill">Deep Learning</span>
+<span class="skill-pill">NLP</span>
+<span class="skill-pill">Computer Vision</span>
+<span class="skill-pill">Generative AI</span>
+<span class="skill-pill">LLMs</span>
 
-#### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-%2300C3E6.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%23007ACC.svg?style=for-the-badge)
+#### Data Engineering & Big Data  
+<span class="skill-pill">PySpark</span>
+<span class="skill-pill">Apache Airflow</span>
+<span class="skill-pill">Kafka</span>
+<span class="skill-pill">Pandas</span>
+<span class="skill-pill">NumPy</span>
 
-#### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%23002E3B.svg?style=for-the-badge)
+#### Databases  
+<span class="skill-pill">PostgreSQL</span>
+<span class="skill-pill">MySQL</span>
+<span class="skill-pill">MariaDB</span>
+<span class="skill-pill">MongoDB</span>
+<span class="skill-pill">Snowflake</span>
+<span class="skill-pill">BigQuery</span>
+<span class="skill-pill">NoSQL</span>
 
+#### Cloud & DevOps  
+<span class="skill-pill">AWS</span>
+<span class="skill-pill">GCP</span>
+<span class="skill-pill">Docker</span>
+<span class="skill-pill">Git</span>
+<span class="skill-pill">CI/CD</span>
+<span class="skill-pill">System Design</span>
 
 ---
 

@@ -14,7 +14,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 ### 🚀 Work Experience
 
 **Software Development Intern — Entertainment Technologists** *(Los Angeles, USA)*  
-- Developed an **AI-powered subtitle generation system** using Whisper + BLIP, improving processing efficiency by **80%** and achieving **90%+ transcription precision**. :contentReference[oaicite:0]{index=0}  
+- Developed an **AI-powered subtitle generation system** using Whisper + BLIP, improving processing efficiency by **80%** and achieving **90%+ transcription precision**.  
 - Built an end-to-end automated backend pipeline using Flask, Librosa, MoviePy, and OpenCV.  
 - Designed scalable modular components for **audio extraction**, **silence detection**, and **caption overlay**.
 

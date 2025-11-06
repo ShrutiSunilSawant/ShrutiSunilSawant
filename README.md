@@ -27,15 +27,6 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ---
 
-### 🏆 Leadership & Achievements
-
-- Published IEEE Research Paper on **Visual Question Generation**
-- Completed **Google Advanced Data Analytics Certification**
-- Oracle Cloud Infrastructure Certified Foundations Associate
-- Social Media Toxicity Data Science Researcher — studied behavioral patterns across Reddit & 4chan communities
-
----
-
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutisawant18/)

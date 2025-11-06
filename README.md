@@ -31,9 +31,9 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-?style=flat&logo=linkedin&logoColor=111&color=D6E4FF)](https://www.linkedin.com/in/shrutisawant18/)
-[![GitHub](https://img.shields.io/badge/GitHub-?style=flat&logo=github&logoColor=111&color=EDEDED)](https://github.com/ShrutiSunilSawant)
-[![Email](https://img.shields.io/badge/Email-?style=flat&logo=gmail&logoColor=111&color=FFD6C9)](mailto:shrutisawant0886@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6E4FF?style=flat&logo=linkedin&logoColor=111)](https://www.linkedin.com/in/shrutisawant18/)
+[![GitHub](https://img.shields.io/badge/GitHub-EDEDED?style=flat&logo=github&logoColor=111)](https://github.com/ShrutiSunilSawant)
+[![Email](https://img.shields.io/badge/Email-FFD6C9?style=flat&logo=gmail&logoColor=111)](mailto:shrutisawant0886@gmail.com)
 
 ---
 

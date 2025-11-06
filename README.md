@@ -7,7 +7,7 @@
 Passionate about building **scalable backend systems**, **AI-powered applications**, and **data-driven product experiences**.  
 I love solving real-world problems and crafting clean, elegant, and production-ready systems.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ShrutiSunilSawant&style=for-the-badge)](https://github.com/ShrutiSunilSawant)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShrutiSunilSawant&style=flat&color=D6E4FF&label=PROFILE%20VIEWS&labelColor=9DB7FF)](https://github.com/ShrutiSunilSawant)
 
 ---
 

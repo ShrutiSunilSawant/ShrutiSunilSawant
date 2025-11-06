@@ -39,49 +39,59 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 ### 🛠️ Tech Stack
 
 #### Languages  
-<span style="background:#FFE7C7; padding:6px 12px; border-radius:12px; margin:2px;">Python</span>
-<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">R</span>
-<span style="background:#F2F7FF; padding:6px 12px; border-radius:12px; margin:2px;">SQL</span>
-<span style="background:#EAF7F5; padding:6px 12px; border-radius:12px; margin:2px;">C</span>
-<span style="background:#FFE1DC; padding:6px 12px; border-radius:12px; margin:2px;">HTML</span>
-<span style="background:#E0E9FF; padding:6px 12px; border-radius:12px; margin:2px;">CSS</span>
+<span style="background:#E8F0FF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Python</span>
+<span style="background:#EDEFFF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">R</span>
+<span style="background:#F2F7FF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">SQL</span>
+<span style="background:#E8F7F3;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">C</span>
+<span style="background:#FFEAE4;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">HTML</span>
+<span style="background:#E6ECFF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">CSS</span>
 
 #### Backend & Frameworks  
-<span style="background:#F5F5F5; padding:6px 12px; border-radius:12px; margin:2px;">Flask</span>
-<span style="background:#D9F2E6; padding:6px 12px; border-radius:12px; margin:2px;">FastAPI</span>
-<span style="background:#EAF6FF; padding:6px 12px; border-radius:12px; margin:2px;">Frappe</span>
-<span style="background:#FFF5CC; padding:6px 12px; border-radius:12px; margin:2px;">REST APIs</span>
+<span style="background:#F6F6F6;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Flask</span>
+<span style="background:#EAF6FF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Frappe</span>
+<span style="background:#FFF6D9;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">RESTful APIs</span>
 
 #### AI, ML & Data Science  
-<span style="background:#FFE7C7; padding:6px 12px; border-radius:12px; margin:2px;">TensorFlow</span>
-<span style="background:#FFD6CE; padding:6px 12px; border-radius:12px; margin:2px;">PyTorch</span>
-<span style="background:#F5F5F5; padding:6px 12px; border-radius:12px; margin:2px;">LangChain</span>
-<span style="background:#EFE7FF; padding:6px 12px; border-radius:12px; margin:2px;">OpenAI API</span>
-<span style="background:#FFF4C8; padding:6px 12px; border-radius:12px; margin:2px;">Transformers</span>
-<span style="background:#D9F5EF; padding:6px 12px; border-radius:12px; margin:2px;">NLP</span>
-<span style="background:#DCE7FF; padding:6px 12px; border-radius:12px; margin:2px;">Computer Vision</span>
+<span style="background:#FFEFD6;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">TensorFlow</span>
+<span style="background:#FFE1DB;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">PyTorch</span>
+<span style="background:#F5F5F7;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">LangChain</span>
+<span style="background:#EEE7FF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">OpenAI API</span>
+<span style="background:#FFF4CF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Transformers</span>
+<span style="background:#E8FAF3;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Deep Learning</span>
+<span style="background:#E8FAF3;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">NLP</span>
+<span style="background:#F0E9FF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Generative AI</span>
+<span style="background:#EDEBFF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">LLMs</span>
+<span style="background:#E3EDFF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Computer Vision</span>
 
 #### Data Engineering & Big Data  
-<span style="background:#FFD6CE; padding:6px 12px; border-radius:12px; margin:2px;">PySpark</span>
-<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">Apache Airflow</span>
-<span style="background:#F0F0F0; padding:6px 12px; border-radius:12px; margin:2px;">Kafka</span>
-<span style="background:#EFE7FF; padding:6px 12px; border-radius:12px; margin:2px;">Pandas</span>
-<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">NumPy</span>
+<span style="background:#FFE1DB;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">PySpark</span>
+<span style="background:#E7EEFF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Airflow</span>
+<span style="background:#F1F1F1;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Kafka</span>
 
 #### Databases  
-<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">PostgreSQL</span>
-<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">MySQL</span>
-<span style="background:#EFEFEF; padding:6px 12px; border-radius:12px; margin:2px;">MariaDB</span>
-<span style="background:#D6F7D9; padding:6px 12px; border-radius:12px; margin:2px;">MongoDB</span>
-<span style="background:#D6F5FF; padding:6px 12px; border-radius:12px; margin:2px;">Snowflake</span>
-<span style="background:#E6F0FF; padding:6px 12px; border-radius:12px; margin:2px;">BigQuery</span>
+<span style="background:#DDEBFF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">PostgreSQL</span>
+<span style="background:#E6F0FF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">MySQL</span>
+<span style="background:#F2F2F2;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">MariaDB</span>
+<span style="background:#E0F7E6;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">MongoDB</span>
+<span style="background:#F0FAFF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Snowflake</span>
+<span style="background:#EAF2FF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">BigQuery</span>
+<span style="background:#EDF5F9;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">NoSQL</span>
 
-#### Cloud & DevOps  
-<span style="background:#FFE7C7; padding:6px 12px; border-radius:12px; margin:2px;">AWS</span>
-<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">GCP</span>
-<span style="background:#D6F5FF; padding:6px 12px; border-radius:12px; margin:2px;">Docker</span>
-<span style="background:#FFD6CE; padding:6px 12px; border-radius:12px; margin:2px;">Git</span>
-<span style="background:#EDEDED; padding:6px 12px; border-radius:12px; margin:2px;">CI/CD</span>
+#### Cloud  
+<span style="background:#FFF1DA;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">AWS</span>
+<span style="background:#DDEBFF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">GCP</span>
+
+#### Software Engineering & DevOps  
+<span style="background:#F4F4F4;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">OOP</span>
+<span style="background:#F4F4F4;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">DSA</span>
+<span style="background:#F4F4F4;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">System Design</span>
+<span style="background:#F7F7F7;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Agile</span>
+<span style="background:#F7F7F7;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">SDLC</span>
+<span style="background:#EFEFEF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">CI/CD</span>
+<span style="background:#FFE1DB;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Git</span>
+<span style="background:#DFF4FF;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Docker</span>
+<span style="background:#F6F6F6;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Testing</span>
+<span style="background:#FFF6D9;padding:6px 12px;border-radius:999px;margin:3px;display:inline-block;">Microservices</span>
 
 
 ---

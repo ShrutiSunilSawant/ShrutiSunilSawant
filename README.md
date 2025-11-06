@@ -46,6 +46,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 ![HTML5](https://img.shields.io/badge/HTML5-FFD9CE?style=for-the-badge&logo=html5&logoColor=111)
 ![CSS3](https://img.shields.io/badge/CSS3-D6E4FF?style=for-the-badge&logo=css3&logoColor=111)
 
+
 #### Backend & Frameworks  
 ![Flask](https://img.shields.io/badge/Flask-F3F3F3?style=for-the-badge&logo=flask&logoColor=111)
 ![FastAPI](https://img.shields.io/badge/FastAPI-D9F2E6?style=for-the-badge&logo=fastapi&logoColor=111)

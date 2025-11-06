@@ -40,12 +40,12 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 ### 🛠️ Tech Stack
 
 #### **Languages**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-?style=flat&logo=python&logoColor=111&color=FFE4AE)
+![R](https://img.shields.io/badge/R-?style=flat&logo=r&logoColor=111&color=DAE6FF)
+![SQL](https://img.shields.io/badge/SQL-?style=flat&logo=database&logoColor=111&color=E9F1FF)
+![C](https://img.shields.io/badge/C-?style=flat&logo=c&logoColor=111&color=E7F4F2)
+![HTML5](https://img.shields.io/badge/HTML5-?style=flat&logo=html5&logoColor=111&color=FFD6C9)
+![CSS3](https://img.shields.io/badge/CSS3-?style=flat&logo=css3&logoColor=111&color=D6E4FF)
 
 #### **Backend & Frameworks**
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)

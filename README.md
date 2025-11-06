@@ -36,20 +36,60 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/shrutisawant18/) • 
-[GitHub](https://github.com/ShrutiSunilSawant) • 
-✉️ **shrutisawant0886@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutisawant18/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShrutiSunilSawant)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutisawant0886@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · SQL · R · C  
-**Frameworks:** Flask · Frappe · FastAPI · PyTorch · TensorFlow · LangChain  
-**Data & Cloud:** PostgreSQL · MongoDB · Snowflake · BigQuery · AWS · GCP · Airflow · Kafka  
-**Concepts:** System Design · Microservices · Distributed Systems · LLM Apps · Computer Vision · NLP
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Backend & Frameworks**
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-%2331A8FF.svg?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-%23007396.svg?style=for-the-badge)
+
+#### **AI, ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-%23008080.svg?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23004E89.svg?style=for-the-badge)
+
+#### **Data Engineering & Big Data**
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300C3E6.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23002E3B.svg?style=for-the-badge)
 
 ---
 

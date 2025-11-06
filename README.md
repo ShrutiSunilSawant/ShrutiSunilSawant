@@ -38,13 +38,13 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ### 🛠️ Tech Stack
 
-#### **Languages**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### **Languages** 
+<span style="background:#E8F0FF;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">Python</span>
+<span style="background:#EFE7FF;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">R</span>
+<span style="background:#F3F7FF;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">SQL</span>
+<span style="background:#E6F7F2;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">C</span>
+<span style="background:#FFE8E3;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">HTML</span>
+<span style="background:#E3ECFF;padding:6px 12px;border-radius:12px;margin:3px;display:inline-block;">CSS</span>
 
 #### **Backend & Frameworks**
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)

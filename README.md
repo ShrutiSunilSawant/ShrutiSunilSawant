@@ -7,6 +7,8 @@
 Passionate about building **scalable backend systems**, **AI-powered applications**, and **data-driven product experiences**.  
 I love solving real-world problems and crafting clean, elegant, and production-ready systems.
 
+[![Profile Views](https://komarev.com/ghpvc/?username=ShrutiSunilSawant&style=for-the-badge)](https://github.com/ShrutiSunilSawant)
+
 ---
 
 ### 🚀 Work Experience
@@ -84,7 +86,22 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ---
 
+### 📈 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrutiSunilSawant&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiSunilSawant&layout=compact&hide_border=true&theme=transparent" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShrutiSunilSawant&hide_border=true&theme=transparent" height="185" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutiSunilSawant&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true&area=true&area_color=58a6ff" />
+</p>
+
+---
 
 ### 🌱 Currently Learning
 Deep Reinforcement Learning, Vector Databases (Pinecone/Qdrant), RAG Systems, and Scalable Backend Patterns.

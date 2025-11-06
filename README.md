@@ -1,4 +1,4 @@
-### Hey there! I'm Shruti Sawant 👋
+### Hey there! I'm Shruti Sawant 
 
 💻 Software Engineer | AI & Cloud Enthusiast  
 📍 Based in USA | she/her  
@@ -10,7 +10,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 [![Profile Views](https://komarev.com/ghpvc/?username=ShrutiSunilSawant&style=for-the-badge)](https://github.com/ShrutiSunilSawant)
 ---
 
-### 🚀 Work Experience
+### Work Experience
 
 **Software Development Intern — Entertainment Technologists** *(Los Angeles, USA)*  
 - Developed an **AI-powered subtitle generation system** using Whisper + BLIP, improving processing efficiency by **80%** and achieving **90%+ transcription precision**.  
@@ -28,7 +28,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ---
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D6E4FF?style=flat&logoColor=111)](https://www.linkedin.com/in/shrutisawant18/)
 [![GitHub](https://img.shields.io/badge/GitHub-EDEDED?style=flat&logoColor=111)](https://github.com/ShrutiSunilSawant)
@@ -36,7 +36,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### Languages  
 ![Python](https://img.shields.io/badge/Python-FFE7BF?style=for-the-badge&logoColor=111)
@@ -96,7 +96,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ---
 
-### 📈 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShrutiSunilSawant&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="160" />
@@ -113,12 +113,12 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 Deep Reinforcement Learning, Vector Databases (Pinecone/Qdrant), RAG Systems, and Scalable Backend Patterns.
 
 ---
 
-### ✨ Fun Fact
+###  Fun Fact
 I love combining **engineering + creativity** — whether through AI agents, UI design, or building complete product experiences!
 
 ---

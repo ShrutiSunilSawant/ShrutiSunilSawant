@@ -112,3 +112,13 @@ Deep Reinforcement Learning, Vector Databases (Pinecone/Qdrant), RAG Systems, an
 I love combining **engineering + creativity** — whether through AI agents, UI design, or building complete product experiences!
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShrutiSunilSawant/ShrutiSunilSawant/main/dist/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShrutiSunilSawant/ShrutiSunilSawant/main/dist/snake-light.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ShrutiSunilSawant/ShrutiSunilSawant/main/dist/snake.svg" />
+  </picture>
+</p>
+
+---

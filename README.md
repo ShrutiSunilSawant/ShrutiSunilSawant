@@ -38,53 +38,50 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ### 🛠️ Tech Stack
 
-#### **Languages**
-![Python](https://img.shields.io/badge/Python-FFE4AE?style=flat&logo=python&logoColor=111)
-![R](https://img.shields.io/badge/R-DAE6FF?style=flat&logo=r&logoColor=111)
-![SQL](https://img.shields.io/badge/SQL-E9F1FF?style=flat&logo=database&logoColor=111)
-![C](https://img.shields.io/badge/C-E7F4F2?style=flat&logo=c&logoColor=111)
-![HTML5](https://img.shields.io/badge/HTML5-FFD6C9?style=flat&logo=html5&logoColor=111)
-![CSS3](https://img.shields.io/badge/CSS3-D6E4FF?style=flat&logo=css3&logoColor=111)
+#### Languages  
+<span style="background:#FFE7C7; padding:6px 12px; border-radius:12px; margin:2px;">Python</span>
+<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">R</span>
+<span style="background:#F2F7FF; padding:6px 12px; border-radius:12px; margin:2px;">SQL</span>
+<span style="background:#EAF7F5; padding:6px 12px; border-radius:12px; margin:2px;">C</span>
+<span style="background:#FFE1DC; padding:6px 12px; border-radius:12px; margin:2px;">HTML</span>
+<span style="background:#E0E9FF; padding:6px 12px; border-radius:12px; margin:2px;">CSS</span>
 
-#### **Backend & Frameworks**
-![Flask](https://img.shields.io/badge/Flask-EDEDED?style=flat&logo=flask&logoColor=111)
-![FastAPI](https://img.shields.io/badge/FastAPI-CDECE3?style=flat&logo=fastapi&logoColor=111)
-![Frappe](https://img.shields.io/badge/Frappe-E1F2FF?style=flat&logo=frappe&logoColor=111)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FFF1C9?style=flat&logo=api&logoColor=111)
+#### Backend & Frameworks  
+<span style="background:#F5F5F5; padding:6px 12px; border-radius:12px; margin:2px;">Flask</span>
+<span style="background:#D9F2E6; padding:6px 12px; border-radius:12px; margin:2px;">FastAPI</span>
+<span style="background:#EAF6FF; padding:6px 12px; border-radius:12px; margin:2px;">Frappe</span>
+<span style="background:#FFF5CC; padding:6px 12px; border-radius:12px; margin:2px;">REST APIs</span>
 
+#### AI, ML & Data Science  
+<span style="background:#FFE7C7; padding:6px 12px; border-radius:12px; margin:2px;">TensorFlow</span>
+<span style="background:#FFD6CE; padding:6px 12px; border-radius:12px; margin:2px;">PyTorch</span>
+<span style="background:#F5F5F5; padding:6px 12px; border-radius:12px; margin:2px;">LangChain</span>
+<span style="background:#EFE7FF; padding:6px 12px; border-radius:12px; margin:2px;">OpenAI API</span>
+<span style="background:#FFF4C8; padding:6px 12px; border-radius:12px; margin:2px;">Transformers</span>
+<span style="background:#D9F5EF; padding:6px 12px; border-radius:12px; margin:2px;">NLP</span>
+<span style="background:#DCE7FF; padding:6px 12px; border-radius:12px; margin:2px;">Computer Vision</span>
 
-#### **AI, ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFE4AE?style=flat&logo=tensorflow&logoColor=111)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFD6C9?style=flat&logo=pytorch&logoColor=111)
-![LangChain](https://img.shields.io/badge/LangChain-EDEDED?style=flat&logoColor=111)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-E9E1FF?style=flat&logo=openai&logoColor=111)
-![Transformers](https://img.shields.io/badge/Transformers-FFF1C9?style=flat&logo=huggingface&logoColor=111)
-![NLP](https://img.shields.io/badge/NLP-CFEFEA?style=flat&logo=knowledgebase&logoColor=111)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-D6E4FF?style=flat&logo=opencv&logoColor=111)
+#### Data Engineering & Big Data  
+<span style="background:#FFD6CE; padding:6px 12px; border-radius:12px; margin:2px;">PySpark</span>
+<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">Apache Airflow</span>
+<span style="background:#F0F0F0; padding:6px 12px; border-radius:12px; margin:2px;">Kafka</span>
+<span style="background:#EFE7FF; padding:6px 12px; border-radius:12px; margin:2px;">Pandas</span>
+<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">NumPy</span>
 
+#### Databases  
+<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">PostgreSQL</span>
+<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">MySQL</span>
+<span style="background:#EFEFEF; padding:6px 12px; border-radius:12px; margin:2px;">MariaDB</span>
+<span style="background:#D6F7D9; padding:6px 12px; border-radius:12px; margin:2px;">MongoDB</span>
+<span style="background:#D6F5FF; padding:6px 12px; border-radius:12px; margin:2px;">Snowflake</span>
+<span style="background:#E6F0FF; padding:6px 12px; border-radius:12px; margin:2px;">BigQuery</span>
 
-#### **Data Engineering & Big Data**
-![PySpark](https://img.shields.io/badge/PySpark-FFD6C9?style=flat&logo=apachespark&logoColor=111)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-D6E4FF?style=flat&logo=apacheairflow&logoColor=111)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-EDEDED?style=flat&logo=apachekafka&logoColor=111)
-![Pandas](https://img.shields.io/badge/Pandas-E9E1FF?style=flat&logo=pandas&logoColor=111)
-![NumPy](https://img.shields.io/badge/NumPy-DAE6FF?style=flat&logo=numpy&logoColor=111)
-
-
-#### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DAE6FF?style=flat&logo=postgresql&logoColor=111)
-![MySQL](https://img.shields.io/badge/MySQL-D6E4FF?style=flat&logo=mysql&logoColor=111)
-![MariaDB](https://img.shields.io/badge/MariaDB-EDEDED?style=flat&logo=mariadb&logoColor=111)
-![MongoDB](https://img.shields.io/badge/MongoDB-CFEFD3?style=flat&logo=mongodb&logoColor=111)
-![Snowflake](https://img.shields.io/badge/Snowflake-DAF5FF?style=flat&logo=snowflake&logoColor=111)
-![BigQuery](https://img.shields.io/badge/BigQuery-E1EEFF?style=flat&logo=googlecloud&logoColor=111)
-
-#### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FFE4AE?style=flat&logo=amazonwebservices&logoColor=111)
-![GCP](https://img.shields.io/badge/GCP-DAE6FF?style=flat&logo=googlecloud&logoColor=111)
-![Docker](https://img.shields.io/badge/Docker-DAF1FF?style=flat&logo=docker&logoColor=111)
-![Git](https://img.shields.io/badge/Git-FFD6C9?style=flat&logo=git&logoColor=111)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-EDEDED?style=flat&logo=githubactions&logoColor=111)
+#### Cloud & DevOps  
+<span style="background:#FFE7C7; padding:6px 12px; border-radius:12px; margin:2px;">AWS</span>
+<span style="background:#DDEBFF; padding:6px 12px; border-radius:12px; margin:2px;">GCP</span>
+<span style="background:#D6F5FF; padding:6px 12px; border-radius:12px; margin:2px;">Docker</span>
+<span style="background:#FFD6CE; padding:6px 12px; border-radius:12px; margin:2px;">Git</span>
+<span style="background:#EDEDED; padding:6px 12px; border-radius:12px; margin:2px;">CI/CD</span>
 
 
 ---

@@ -39,7 +39,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 ### 🛠️ Tech Stack
 
 #### Languages  
-![Python](https://img.shields.io/badge/Python-FFE7BF?style=for-the-badge&logo=python&logoColor=111)
+![Python](https://img.shields.io/badge/Python-FFE7BF?style=for-the-badge&logoColor=111)
 ![R](https://img.shields.io/badge/R-DDEBFF?style=for-the-badge&logo=r&logoColor=111)
 ![SQL](https://img.shields.io/badge/SQL-F2F6FF?style=for-the-badge&logoColor=111)
 ![C](https://img.shields.io/badge/C-EAF7F3?style=for-the-badge&logo=c&logoColor=111)

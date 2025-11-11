@@ -113,47 +113,6 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ---
 
-## 📦 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ShrutiSunilSawant/Auto-Subtitle-and-Video-Explainer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShrutiSunilSawant&repo=Auto-Subtitle-and-Video-Explainer&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ShrutiSunilSawant/Expense-Tracker-Dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShrutiSunilSawant&repo=Expense-Tracker-Dashboard&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ShrutiSunilSawant/Social-Media-Fitness-MentalHealth-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShrutiSunilSawant&repo=Social-Media-Fitness-MentalHealth-Analysis&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ShrutiSunilSawant/Predictive-HR-Intelligence-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShrutiSunilSawant&repo=Predictive-HR-Intelligence-Platform&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>Load more repositories</b></summary><br>
-
-- 🎧 <a href="https://github.com/ShrutiSunilSawant/Reddit-4chan-Topic-Analysis">Reddit & 4chan Topic Analysis</a>
-- 🎨 <a href="https://github.com/ShrutiSunilSawant/Aesthetic-UI-Portfolio">Aesthetic UI Portfolio</a>
-- 🔥 <a href="https://github.com/ShrutiSunilSawant/AI-Habit-Tracker">AI Habit Tracker</a>
-- 📦 <a href="https://github.com/ShrutiSunilSawant?tab=repositories">View All Repositories →</a>
-
-</details>
-
----
-
 ###  Currently Learning
 Deep Reinforcement Learning, Vector Databases (Pinecone/Qdrant), RAG Systems, and Scalable Backend Patterns.
 

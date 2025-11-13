@@ -114,7 +114,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 ---
 
 ###  Currently Learning
-Deep Reinforcement Learning, Vector Databases (Pinecone/Qdrant), RAG Systems, and Scalable Backend Patterns.
+Deep Reinforcement Learning, Vector Databases (Pinecone/Qdrant), RAG Systems, and Amazon Bedrock.
 
 ---
 

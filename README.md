@@ -1,6 +1,6 @@
 ### Hey there! I'm Shruti Sawant 
 
-💻 Software Engineer | AI & Cloud Enthusiast  
+💻 Software Engineer | AI & Data Enthusiast  
 📍 Based in USA | she/her  
 🎓 Master’s in Computer Science @ Binghamton University (Graduating Dec 2025)
 

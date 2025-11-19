@@ -1,4 +1,4 @@
-### Hey there! I'm Shruti Sawant 
+### Hey there! I'm Shruti Sawant
 
 💻 Software Engineer | AI & Data Enthusiast  
 📍 Based in USA | she/her  

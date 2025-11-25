@@ -12,19 +12,22 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 ### Work Experience
 
-**Software Development Intern — Entertainment Technologists** *(Los Angeles, USA)*  
-- Developed an **AI-powered subtitle generation system** using Whisper + BLIP, improving processing efficiency by **80%** and achieving **90%+ transcription precision**.  
-- Built an end-to-end automated backend pipeline using Flask, Librosa, MoviePy, and OpenCV.  
-- Designed scalable modular components for **audio extraction**, **silence detection**, and **caption overlay**.
+**AI Development Intern — Entertainment Technologists** *(Los Angeles, USA)*  
+- Developed an AI-powered subtitle generation system using Whisper for speech-to-text and BLIP for silent scene captioning, improving processing efficiency by 80% and multilingual accessibility across 4 languages. 
+- Designed and implemented a Flask-based backend application integrating video/audio processing modules (MoviePy, Librosa, OpenCV) with real-time task streaming and error handling for seamless end-to-end automation.  
+- Engineered modular architecture enabling audio extraction, silence detection, caption generation, and subtitle overlay, ensuring accurate synchronization and achieving over 90% transcription precision.
+- Collaborated with research and media teams to enhance user experience through progress tracking, responsive UI, and scalable system design for production-ready deployment.
 
 **Software Developer — Vedarth Solutions** *(Pune, India)*  
-- Built a **QR-based membership management system** used by **1,500+ users** across 20+ categories.  
-- Automated cross-department approval workflows, reducing manual effort by **70%**.  
-- Designed reliable data migration modules ensuring **99.9% integrity** during deployment.
+- Built and deployed a QR-based membership management system using Python and Frappe, supporting 1,500+ users across 4 tiers and 20+ categories while maintaining modular architecture for scalability and ease of maintenance.  
+- Automated complex approval workflows with Python, reducing manual effort by 70% and enabling faster, error-free processing across 12 departments through asynchronous execution, exception handling, and process optimization techniques.  
+- Architected robust data migration modules to transfer records between CSVs, APIs, and legacy databases, ensuring 99.9% data integrity while improving backend reliability and minimizing system downtime during deployment.
+- Integrated RESTful APIs with executive dashboards, providing cross-functional teams real-time visibility into operations, improving collaboration, and accelerating decision-making through interactive and analytics-ready data interfaces.
 
 **Software Engineering Intern — S.P.Tronics** *(Pune, India)*  
-- Created Flask-based dashboards & real-time inverter performance monitoring APIs.  
-- Processed **450K+ time-series records** and built predictive models achieving **92%** accuracy.
+- Engineered a Flask-based web application with REST APIs for real-time inverter performance monitoring and visualization.  
+- Processed over 450K+ time-series records with optimized backend logic, improving accuracy to 99.8% and speed by 78%.
+- Executed predictive algorithms using regression models to detect faults with 92% accuracy and optimize system efficiency
 
 ---
 

@@ -103,12 +103,13 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShrutiSunilSawant&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&cache_seconds=7200"
+    src="https://github-readme-stats.vercel.app/api?username=ShrutiSunilSawant&show_icons=true&rank_icon=github&hide_border=true&theme=transparent"
     alt="Shruti's GitHub stats"
     height="160"
   />
+  
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShrutiSunilSawant&layout=compact&hide_border=true&theme=transparent&cache_seconds=7200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiSunilSawant&layout=compact&hide_border=true&theme=transparent"
     alt="Top languages"
     height="160"
   />
@@ -117,7 +118,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=ShrutiSunilSawant&hide_border=true&theme=transparent"
-    alt="GitHub streak"
+    alt="GitHub Streak"
     height="185"
   />
 </p>
@@ -125,7 +126,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutiSunilSawant&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true&area=true&area_color=58a6ff"
-    alt="Contribution activity graph"
+    alt="Contribution Graph"
   />
 </p>
 

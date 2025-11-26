@@ -34,7 +34,6 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 ###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D6E4FF?style=for-the-badge&logoColor=111)](https://www.linkedin.com/in/shrutisawant18/)
-[![GitHub](https://img.shields.io/badge/GitHub-EDEDED?style=for-the-badge&logoColor=111)](https://github.com/ShrutiSunilSawant)
 [![Email](https://img.shields.io/badge/Email-FFD6C9?style=for-the-badge&logoColor=111)](mailto:shrutisawant0886@gmail.com)
 
 ---

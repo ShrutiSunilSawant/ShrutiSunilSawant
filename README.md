@@ -103,20 +103,6 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ShrutiSunilSawant&show_icons=true&rank_icon=github&hide_border=true&theme=transparent"
-    alt="Shruti's GitHub stats"
-    height="160"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiSunilSawant&layout=compact&hide_border=true&theme=transparent"
-    alt="Top languages"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=ShrutiSunilSawant&hide_border=true&theme=transparent"
     alt="GitHub Streak"
     height="185"

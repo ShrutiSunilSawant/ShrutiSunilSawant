@@ -2,7 +2,7 @@
 
 💻 Software Engineer | AI & Data Enthusiast  
 📍 Based in USA | she/her  
-🎓 Master’s in Computer Science @ Binghamton University (Graduating Dec 2025)
+🎓 Master’s in Computer Science @ Binghamton University
 
 Passionate about building **scalable backend systems**, **AI-powered applications**, and **data-driven product experiences**.  
 I love solving real-world problems and crafting clean, elegant, and production-ready systems.

@@ -1,6 +1,6 @@
 ### Hey there! I'm Shruti Sawant
 
-💻 AI/ML Engineer 
+💻 AI/ML Engineer      
 📍 Based in USA | she/her  
 🎓 Master’s in Computer Science @ Binghamton University
 

@@ -18,19 +18,19 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 - Engineered a RAG-powered HR Copilot using ChromaDB and Sentence Transformers, achieving 92% retrieval relevance with context-aware LLM responses.
 - Developed an NLP sentiment pipeline using DistilBERT and RoBERTa to detect burnout signals with 87% accuracy across departments.
 
-**AI Engineer Intern — Entertainment Technologists** *(Los Angeles, USA)*  
+**AI Engineer Intern · Entertainment Technologists** *(Los Angeles, USA)*  
 - Automated transcription and subtitling across 99+ languages using faster-whisper with 99% accuracy, syncing every word to the exact millisecond.
 - Developed a multimodal pipeline using BLIP and computer vision to detect silent scenes and auto-generate contextual descriptions without manual annotation.
 - Engineered real-time speaker diarization using librosa and FFmpeg, eliminating subtitle merge errors by 90% with zero third-party APIs.
 - Delivered a full-stack AI SaaS product using React, FastAPI, and WebRTC VAD that processes raw video through a 6-stage pipeline and exports broadcast-ready MP4, SRT, and transcript files.
 
-**Software Developer — Vedarth Solutions** *(Pune, India)*  
+**Software Developer · Vedarth Solutions** *(Pune, India)*  
 - Automated membership approval workflows on ERPNext using custom Python scripts, reducing enrollment time from 45 minutes to 5 minutes and cutting manual processing time by 80% across 12 branches.
 - Engineered a QR-based check-in system integrated with ERPNext, automating attendance tracking and cutting approval cycles from days to same-day resolution.
 - Scripted a data migration pipeline in Python with 99.9% accuracy, handling transformation and validation logic to migrate member records into ERPNext backed by MariaDB with zero data loss.
 - Partnered with stakeholders to define migration requirements, delivering a seamless ERPNext transition with full audit trail and zero downtime.
 
-**Software Engineering Intern — S.P.Tronics** *(Pune, India)*  
+**Software Engineering Intern · S.P.Tronics** *(Pune, India)*  
 - Engineered a Flask-based web application with REST APIs for real-time inverter performance monitoring and visualization.  
 - Processed over 450K+ time-series records with optimized backend logic, improving accuracy to 99.8% and speed by 78%.
 - Executed predictive algorithms using regression models to detect faults with 92% accuracy and optimize system efficiency

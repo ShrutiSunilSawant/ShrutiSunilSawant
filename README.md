@@ -18,7 +18,7 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 - Engineered a RAG-powered HR Copilot using ChromaDB and Sentence Transformers, achieving 92% retrieval relevance with context-aware LLM responses.
 - Developed an NLP sentiment pipeline using DistilBERT and RoBERTa to detect burnout signals with 87% accuracy across departments.
 
-**AI Development Intern — Entertainment Technologists** *(Los Angeles, USA)*  
+**AI Engineer Intern — Entertainment Technologists** *(Los Angeles, USA)*  
 - Automated transcription and subtitling across 99+ languages using faster-whisper with 99% accuracy, syncing every word to the exact millisecond.
 - Developed a multimodal pipeline using BLIP and computer vision to detect silent scenes and auto-generate contextual descriptions without manual annotation.
 - Engineered real-time speaker diarization using librosa and FFmpeg, eliminating subtitle merge errors by 90% with zero third-party APIs.

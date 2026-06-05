@@ -142,8 +142,4 @@ Agentic AI systems with Google ADK and BeeAI, advanced RAG architectures, and AI
 
 ---
 
-###  Fun Fact
-I love combining **engineering + creativity** — whether through AI agents, UI design, or building complete product experiences!
-
----
 

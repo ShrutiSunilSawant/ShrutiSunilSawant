@@ -4,7 +4,7 @@
 📍 Based in San Francisco bay Area | she/her  
 🎓 Master’s in Computer Science @ Binghamton University
 
-I build production-grade AI system, multi-agent pipelines, RAG-powered copilots, and multimodal AI products that solve real problems. 
+I build production-grade AI systems, multi-agent pipelines, RAG-powered copilots, and multimodal AI products that solve real problems. 
 I love solving real-world problems and crafting clean, elegant, and production-ready systems.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShrutiSunilSawant&style=for-the-badge)](https://github.com/ShrutiSunilSawant)
@@ -34,6 +34,14 @@ I love solving real-world problems and crafting clean, elegant, and production-r
 - Engineered a Flask-based web application with REST APIs for real-time inverter performance monitoring and visualization.  
 - Processed over 450K+ time-series records with optimized backend logic, improving accuracy to 99.8% and speed by 78%.
 - Executed predictive algorithms using regression models to detect faults with 92% accuracy and optimize system efficiency
+
+---
+
+### 🚀 Featured Projects
+
+- **[SmartSpent](https://github.com/ShrutiSunilSawant/SmartSpent)** — AI financial copilot for spending insights and budgeting.
+- **[workforce-copilot](https://github.com/ShrutiSunilSawant/workforce-copilot)** — AI-powered HR intelligence platform (WorkforceIQ) with multi-agent orchestration and attrition prediction.
+- **[IceBreaker-AI-Networking-Platform](https://github.com/ShrutiSunilSawant/IceBreaker-AI-Networking-Platform)** — AI-driven networking/icebreaker platform.
 
 ---
 
@@ -125,13 +133,6 @@ I love solving real-world problems and crafting clean, elegant, and production-r
     src="https://streak-stats.demolab.com?user=ShrutiSunilSawant&hide_border=true&theme=transparent"
     alt="GitHub Streak"
     height="185"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutiSunilSawant&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true&area=true&area_color=58a6ff"
-    alt="Contribution Graph"
   />
 </p>
 

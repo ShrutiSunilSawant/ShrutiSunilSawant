@@ -53,10 +53,10 @@ I spend most of my time making LLMs behave in production: routing multi-agent pi
 
 ###  Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutisawant18/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutisawant0886@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shrutisawant.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShrutiSunilSawant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6E4FF?style=for-the-badge&logoColor=111)](https://www.linkedin.com/in/shrutisawant18/)
+[![Email](https://img.shields.io/badge/Email-FFD6C9?style=for-the-badge&logoColor=111)](mailto:shrutisawant0886@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8F5E9?style=for-the-badge&logoColor=111)](https://shrutisawant.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-F3F3F3?style=for-the-badge&logoColor=111)](https://github.com/ShrutiSunilSawant)
 
 ---
 
